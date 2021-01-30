@@ -1,4 +1,4 @@
-package DbHelper
+package RoleHelper
 
 type Role struct {
 	ID      int     `json:"id"`

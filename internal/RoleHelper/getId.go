@@ -1,4 +1,4 @@
-package DbHelper
+package RoleHelper
 
 func SetRoleSkillID(roles *[]Role, u *Role) {
 
